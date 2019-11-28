@@ -16,6 +16,7 @@ header{
     grid-row: 1;
 }
 
+
 aside{
     border: 2px solid blue;
     grid-column: 1;
